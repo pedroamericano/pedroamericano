@@ -5,7 +5,7 @@
 
 ---
 
-## 🛠️ Sobre Mim
+## 🛠️ Sobre mim
 
 Especialista em engenharia da qualidade de software com habilidades voltadas para:
 - **Testes de Software**: Planejamento, execução e gestão de testes manuais e automatizados para garantir a entrega de sistemas confiáveis, que estejam em linha com as expectativas das partes interessadas.
@@ -16,7 +16,7 @@ Tenho experiência profissional comprovada em projetos de tecnologia no setor p�
 
 ---
 
-## 💡 O Que Você Encontra Aqui
+## 💡 O que você encontra aqui
   
 🔍 **Documentação de Requisitos**: Execução de técnicas utilizadas em diversas etapas do trabalho em engenharia de requisitos. 
 
