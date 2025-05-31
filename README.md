@@ -18,8 +18,10 @@ Tenho experiência profissional comprovada em projetos de tecnologia no setor p�
 
 ## 💡 O Que Você Encontra Aqui
   
-🔍 **Documentação de Requisitos**: Execução de técnicas utilizadas em diversas etapas do trabalho em engenharia de requisitos.  
+🔍 **Documentação de Requisitos**: Execução de técnicas utilizadas em diversas etapas do trabalho em engenharia de requisitos. 
+
 📂 **Projetos QA**: Aplicação prática de ferramentas e técnicas de qualidade de software.
+
 🌐 **Projetos de Desenvolvimento Web Full Stack**: Aplicação de conhecimentos obtidos em cursos e na faculdade de análise e desenvolvimento de sistemas. 
 
 ---
