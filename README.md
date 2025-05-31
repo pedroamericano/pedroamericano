@@ -8,7 +8,7 @@
 ## 🛠️ Sobre Mim
 
 Especialista em engenharia da qualidade de software com habilidades voltadas para:
-- **Testes de Software**: Execução de testes funcionais, exploratórios e automatizados para garantir a entrega de sistemas robustos e confiáveis.
+- **Testes de Software**: Planejamento, execução e gestão de testes manuais e automatizados para garantir a entrega de sistemas confiáveis, que estejam em linha com as expectativas das partes interessadas.
 - **Engenharia de Requisitos**: Elicitação, especificação, validação e gestão de requisitos com foco na satisfação do cliente e sucesso do projeto.
 - **Desenvolvimento Web Full Stack**:  Desenvolvimento de projetos utilizando as linguagens JavaScript, Python e Java.
 
