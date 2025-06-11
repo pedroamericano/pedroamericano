@@ -1,18 +1,7 @@
 
-# 👨‍💻 Pedro Americano do Brasil
-
-✨ **Analista de sistemas com foco em desenvolvimento web full stack, qualidade de software e engenharia de requisitos** ✨
-
----
-
 ## 🛠️ Sobre mim
 
-Tecnólogo em Análise  e Desenvolvimento de Sistemas e Pós-graduado em engenharia da qualidade de software com habilidades voltadas para:
-- **Testes de Software**: Planejamento, execução e gestão de testes manuais e automatizados para garantir a entrega de sistemas confiáveis, que estejam em linha com as expectativas das partes interessadas.
-- **Engenharia de Requisitos**: Elicitação, especificação, validação e gestão de requisitos com foco na satisfação do cliente e sucesso do projeto.
-- **Desenvolvimento Web Full Stack**:  Desenvolvimento de projetos utilizando JavaScript.
-
-Tenho experiência profissional comprovada em projetos de tecnologia no setor público e privado. Contribuindo ativamente na entrega de soluções tecnológicas de qualidade sempre alinhadas às necessidades do negócio, utilizando metodologias tradicionais e ágeis.
+Profissional multidisciplinar com vivência nos setores ambiental, financeiro e de tecnologia da informação. Ao longo da minha trajetória profissional, já atuei em órgãos públicos, empresas privadas e também tive a oportunidade de trabalhar de forma autônoma.
 
 ---
 
