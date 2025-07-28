@@ -6,6 +6,7 @@ Sou engenheiro de formação, sempre tive afinidade com dados desde a graduaçã
 Atuei em instituições públicas e privadas com análise de dados, criação de dashboards, ETL, modelagem e visualização de informações para apoiar a tomada de decisão. Nessas experiências, participei desde o levantamento de requisitos até a entrega de soluções analíticas, observando na prática como o uso estratégico de dados pode otimizar processos e gerar valor mensurável para as organizações.
 
 Atualmente, consolido minha transição para a área de tecnologia aproveitando minha base sólida em matemática e estatística da engenharia, enquanto me capacito em Ciência de Dados, Machine Learning e Inteligência Artificial.
+
 ---
 
 ## 🌟 Como posso te ajudar?
